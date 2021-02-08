@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: false }))
 
 app.use(router)
 
-//error handler sebagai middle paling akhir --
+
 app.use(errorHandler)
 
 
