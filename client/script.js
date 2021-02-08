@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3000'
+const baseUrl = 'https://fancy-todo-lynkk.herokuapp.com/'
 
 $(document).ready(() => {
   auth()
